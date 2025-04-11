@@ -1,6 +1,6 @@
 # dbt_bigquery_jaffleshop_project
 
-![jaffleshotlineage]([https://github.com/Musili-Adebayo/Bing-New-Search---End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric./blob/main/Olympic%20Games%20Paris%202024%20News.png](https://github.com/Musili-Adebayo/dbt_bigquery_jaffleshop_project/blob/main/Jaffleshop%20Lineage.png))
+![jaffleshoplineage](https://github.com/Musili-Adebayo/dbt_bigquery_jaffleshop_project/blob/main/Jaffleshop%20Lineage.png))
 
 
 ##  Project Summary
